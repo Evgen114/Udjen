@@ -1,0 +1,44 @@
+p {
+	color: #a43FFF;
+	font-size: 18px;
+	margin:1cm 1cm 2cm 3cm;
+}
+.test-1 {
+	font-weight: 600;
+	margin:15%
+}
+.test-2 {
+	color: #b52f33;
+}
+.inline-test {
+	background-color: #fc3452;
+}
+.block-test {
+	background-color: #34fcfc;
+}
+.spam {
+	color: #b52f33;
+}
+h1 {
+	color: #0000ff;
+	padding: 50px 20px 20px 50px;
+}
+h2 {
+	padding:20%
+	
+}
+h3{
+	border-style: dotted;
+	width:100px;
+	height: 10%;
+	padding:8%;
+	
+}
+
+.box {
+	border-style: inset;
+	box-sizing: border-box;
+	width: 200px;
+	height: 200px;
+	color: #0000ff;
+}		
